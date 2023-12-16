@@ -1,0 +1,15 @@
+/* div{
+    background-color:violet;
+    height: 100px;
+    width: 100px;
+
+} */
+
+.dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
+}
